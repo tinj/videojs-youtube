@@ -3,6 +3,7 @@
   "description": "Support YouTube source for Video.js",
   "version": "1.1.0",
   "author": "Benoit Tremblay",
+  "main": "./src/youtube.js",
   "devDependencies": {
     "grunt": "~0.4",
 	"grunt-cli": "~0.1.0",
