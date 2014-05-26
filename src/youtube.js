@@ -2,6 +2,8 @@
  * @fileoverview YouTube Media Controller - Wrapper for YouTube Media API
  */
 
+var videojs = require('video.js'); // browserify support
+
 /**
  * YouTube Media Controller - Wrapper for YouTube Media API
  * @param {videojs.Player|Object} player
